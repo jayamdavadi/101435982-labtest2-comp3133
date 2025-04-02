@@ -49,6 +49,7 @@ Runs unit tests via [Karma](https://karma-runner.github.io).
 ## 📤 Deployment
 
 This app is deployed using **Vercel**.  
+> 🔗 Live Demo: [https://101435982-labtest2-comp3133.vercel.app/](https://101435982-labtest2-comp3133.vercel.app/)  
 > Output directory used: `dist/browser`  
 > Build command: `ng build --configuration production`
 
